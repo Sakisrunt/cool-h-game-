@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f4f19d12ca7acd479e5045146ae3d2c
+guid: ba5ad1f2fe94847459aa8e6bc378f407
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerWalk_0
+      name: PlayerIdle1-sheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfc64e9fe493a8c47958f8841b104602
-      internalID: -391986243
+      spriteID: 0543aaff7b5004d4aa925a2420a0c93a
+      internalID: -842320481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerWalk_1
+      name: PlayerIdle1-sheet_1
       rect:
         serializedVersion: 2
         x: 16
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05791cd33ba72164d885d19e7600dfea
-      internalID: 1202584485
+      spriteID: 4e53171a407814746b987131b21eb769
+      internalID: 660826245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerWalk_2
+      name: PlayerIdle1-sheet_2
       rect:
         serializedVersion: 2
         x: 32
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab8c17aa4fd127d4b87593d37aaac8fe
-      internalID: 1969413286
+      spriteID: 2ada488ce03b3d84b9ebf4227091c048
+      internalID: -1000498252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerWalk_3
+      name: PlayerIdle1-sheet_3
       rect:
         serializedVersion: 2
         x: 48
@@ -187,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 974c833ae5b3cf445ac521c90c8dd584
-      internalID: -1865128174
+      spriteID: d773f85536b85e04392d0306d0d4612b
+      internalID: 1657486560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerWalk_4
+      name: PlayerIdle1-sheet_4
       rect:
         serializedVersion: 2
         x: 64
@@ -208,14 +208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd6dec0ccac476e4b89fe88de0c35c6a
-      internalID: 322450146
+      spriteID: 24d7d538016ed8146833ba2294d56198
+      internalID: -515440579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerWalk_5
+      name: PlayerIdle1-sheet_5
       rect:
         serializedVersion: 2
         x: 80
@@ -229,29 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21a4ccdbaeca7e14492abc4337d27190
-      internalID: -2018683401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerWalk_6
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8630e18d43613694984df2edd254b55b
-      internalID: 866786988
+      spriteID: 5a2c8d3840990fd4cac83dd325b0358f
+      internalID: -752568581
       vertices: []
       indices: 
       edges: []
@@ -267,13 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PlayerWalk_0: -391986243
-      PlayerWalk_1: 1202584485
-      PlayerWalk_2: 1969413286
-      PlayerWalk_3: -1865128174
-      PlayerWalk_4: 322450146
-      PlayerWalk_5: -2018683401
-      PlayerWalk_6: 866786988
+      PlayerIdle1-sheet_0: -842320481
+      PlayerIdle1-sheet_1: 660826245
+      PlayerIdle1-sheet_2: -1000498252
+      PlayerIdle1-sheet_3: 1657486560
+      PlayerIdle1-sheet_4: -515440579
+      PlayerIdle1-sheet_5: -752568581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
